@@ -7,4 +7,4 @@
    * average product correction (APC) of Con
    * average product correction (APC) of DCA
 
-2. Test the caculation on CAPRI benchmark decoys-[score_set](
+2. Test the caculation on CAPRI benchmark decoys-[score_set](https://scoreset.org/index.php?browse)
